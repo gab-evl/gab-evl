@@ -1,67 +1,66 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="[your-linkedin-url]">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="[your-twitter-url-or-other-social]">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&size=35&pause=1000&color=47BFBD¢er=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Gabriel+Velasquez;A+Passionate+Developer+and+Student;Always+Learning+and+Growing" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=[your-github-username]&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=flat-square&color=47BFBD&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 ---
 
-### :man_technologist: About Me :
-
-I'm a full-stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from [Your Location]. I have a passion for creating sleek, modern, and intuitive user interfaces, backed by robust and scalable back-end logic. My goal is to build applications that not only function flawlessly but also provide a delightful user experience.
-
--   :telescope: I’m currently working on a **[Name of Project You're Building]**.
--   :seedling: I’m currently learning **[A Technology You're Learning]**.
--   :zap: In my free time, I enjoy [Your Hobby] and exploring new technologies.
--   :mailbox: How to reach me: **[your-email@example.com]**
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>I'm a first-year student from Tagaytay with a deep passion for technology, development, and collaborative problem-solving. My experiences in competitive sports like volleyball and basketball, combined with strategic gaming, have instilled in me a unique blend of discipline, teamwork, and rapid decision-making.</p>
+      <p>My goal is to channel this energy into creating software that is both functional and impactful.</p>
+      <br>
+      <ul>
+        <li>🌱 I’m currently focusing on strengthening my foundational knowledge in web and software development.</li>
+        <li>💡 In my free time, I enjoy competitive gaming, analyzing strategies, and staying active with sports.</li>
+        <li>📫 You can reach me at: <strong>[your-email@example.com]</strong></li>
+      </ul>
+    </td>
+    <td width="30%" valign="top">
+      <h3>🎯 Core Skills</h3>
+      <ul>
+        <li>⚡ Rapid Decision-Making</li>
+        <li>🔄 Strategic & Adaptable Thinking</li>
+        <li>🤝 Effective Team Collaboration</li>
+        <li>💬 High-Stakes Communication</li>
+        <li>🧘 Mental Resilience & Focus</li>
+        <li>🏆 Leadership & Accountability</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,docker" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</div>
-
----
-
-### :fire: My Stats :
+### 🛠️ My Tech Stack
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Your GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,java,mysql,git,vscode,github,figma,discord&perline=6" />
+  </a>
 </p>
 
 ---
 
-### 💻 My Projects:
-Here are a few projects I've worked on. You can find more on my profile!
+### 🔥 My GitHub Stats
 
-| Project                                                      | Description                                                  | Technologies Used                               |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------- |
-| **[Project 1 Name](project-link)**                           | A brief, one-sentence description of what this project does. | `React` `Node.js` `MongoDB` `CSS`               |
-| **[Project 2 Name](project-link)**                           | A brief, one-sentence description of what this project does. | `Next.js` `TypeScript` `TailwindCSS` `PostgreSQL` |
-| **[Project 3 Name](project-link)**                           | A brief, one-sentence description of what this project does. | `JavaScript` `HTML5` `Firebase`                 |
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=nord&hide_border=true&count_private=true&bg_color=1A202C&title_color=47BFBD&icon_color=3ACCA4" alt="Gabriel's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=nord&hide_border=true&langs_count=8&bg_color=1A202C&title_color=47BFBD&icon_color=3ACCA4" alt="Top Languages" />
+</p>
 
+---
 
 <div align="center">
-  <h3>:v: Connect with me:</h3>
+  <h3>🤝 Connect with Me</h3>
   <p>
     <a href="[your-linkedin-url]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:[your-email@example.com]" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="[your-facebook-or-other-social-url]" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <a href="mailto:[your-email@example.com]" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   </p>
 </div>
