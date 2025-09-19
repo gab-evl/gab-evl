@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td width="30%" valign="top">
-      <h3>🎯 Core Skills</h3>
+      <h3>Core Skills</h3>
       <ul>
         <li>⚡ Rapid Decision-Making</li>
         <li>🔄 Strategic & Adaptable Thinking</li>
