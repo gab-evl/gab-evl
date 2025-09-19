@@ -18,7 +18,7 @@
       <ul>
         <li>🌱 I’m currently focusing on strengthening my foundational knowledge in web and software development.</li>
         <li>💡 In my free time, I enjoy competitive gaming, analyzing strategies, and staying active with sports.</li>
-        <li>📫 You can reach me at: <strong>[your-email@example.com]</strong></li>
+        <li>📫 You can reach me at: <strong>Gabriel.Velasquez@olivarezcollegetagaytay.edu.ph</strong></li>
       </ul>
     </td>
     <td width="30%" valign="top">
